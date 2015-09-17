@@ -1,7 +1,7 @@
 Spark Scala 1.5.0 Template 
 ========
 
-Specically for the Zooniverse
+Specifically for the Zooniverse
 
 ## Usage
 
